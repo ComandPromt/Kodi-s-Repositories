@@ -19,3 +19,7 @@
 # Adult
 
 [adult](https://dobbelina.github.io)
+
+# English
+
+[english](https://k.slyguy.xyz)
