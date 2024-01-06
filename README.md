@@ -1,8 +1,8 @@
 # Kodi-s-Repositories
 
-# CY4ROOT
+# Favourite
 
-[cy4root](https://cy4root2.github.io/zip)
+[fav](https://milhano.pt/fonte)
 
 # Luar
 
